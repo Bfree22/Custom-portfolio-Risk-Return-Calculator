@@ -177,7 +177,7 @@ ________________________________________________________________________________
 
 
 
-![risk_slider](https://github.com/Danebob86/ideal_crypto_stock_portfolio/blob/Master/dashboard_gifs/risk_slider.gif)
+![risk_slider](https://github.com/Bfree22/dashboard_gifs/blob/master/dashboard_gifs/risk_slider.gif)
 
 
 
@@ -185,7 +185,7 @@ ________________________________________________________________________________
 * Based on the selection above, the person would then enter the amount of simulations to run. The simulation would run based on your selected portfolio and adjusted risk level, generating a possibility of different return levels based on your selected investment time period. 
 
 
-![create_portfolio](https://github.com/Danebob86/ideal_crypto_stock_portfolio/blob/Master/dashboard_gifs/Create_your_portfolio.gif)
+![create_portfolio](https://github.com/Bfree22/dashboard_gifs/blob/master/dashboard_gifs/Create_your_portfolio.gif)
 
 
 
@@ -199,7 +199,7 @@ ________________________________________________________________________________
 
 
 
-![conclusion](https://github.com/Danebob86/ideal_crypto_stock_portfolio/blob/Master/dashboard_gifs/Conclusion.gif)
+![conclusion](https://github.com/Bfree22/dashboard_gifs/blob/master/dashboard_gifs/Conclusion.gif)
 
 
 
