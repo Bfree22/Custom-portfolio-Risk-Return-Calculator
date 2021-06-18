@@ -7,7 +7,7 @@
 
 
 
-![dashboard](https://github.com/Bfree22/Custom-portfolio-Risk-Return-Calculator/blob/model_2/dashboard_gifs/full_dashboard.gif)
+![dashboard](https://github.com/Bfree22/dashboard_gifs/blob/master/dashboard_gifs/full_dashboard.gif)
 
 
 
